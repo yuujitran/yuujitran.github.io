@@ -7,5 +7,6 @@ redirect_from:
   - /about.html
 ---
 I am a student at the University of Houston, pursuing a degree in Computer Science.
+cs.uh.edu
 RESUME 
 
