@@ -12,5 +12,5 @@ I am a student at the University of Houston, pursuing a degree in Computer Scien
 #uhcslink
 [University of Houston Computer Science Department](https://www.cs.uh.edu)
 #resume
-Download my resume: [ResumeDRAFT2025.pdf](/ResumeDRAFT2025.pdf)
+Download my resume: [ResumeDRAFT2025.pdf](/files/ResumeDRAFT2025.pdf)
 
