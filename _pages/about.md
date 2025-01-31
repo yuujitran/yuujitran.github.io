@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Andy Tran site"
+title: "Andy Tran Github"
 author_profile: true
 redirect_from: 
   - /about/
