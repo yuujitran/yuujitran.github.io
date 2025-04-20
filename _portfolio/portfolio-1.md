@@ -1,6 +1,5 @@
 ---
 title: "User Management Project"
-excerpt: "User management project for University of Houston<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
