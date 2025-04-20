@@ -3,7 +3,7 @@ title: "User Management Project"
 collection: portfolio
 ---
 
-### 🎥 Demo Video (Embedded)
+### 🎥 Demo Video
 
 <iframe width="560" height="315"
     src="https://www.youtube.com/embed/KEjdVFibIq8"
